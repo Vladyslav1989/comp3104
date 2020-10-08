@@ -1,0 +1,20 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No test created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladyslav1989/comp3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladyslav1989/comp3104/issues"
+  },
+  "homepage": "https://github.com/Vladyslav1989/comp3104#readme"
+}
